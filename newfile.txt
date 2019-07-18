@@ -5,3 +5,14 @@ df ijoige4ctodcg"dfvkg bolg\c
 gfjkslfdhv m gb cadl
 c\\f .xcv/l;icsv gbeofir 
 cmxv ;w'prcm 94302ruvjidf n3fsd37c 4cx
+<<<<<<< HEAD
+Sergiu a modificat acest fisier.
+=======
+a
+a
+a
+a
+
+a
+a
+>>>>>>> 24d1a4cb623ae49f7c40da2eff7bfa1900c8f2cb
