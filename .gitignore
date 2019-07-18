@@ -3,7 +3,6 @@
 *.classpath
 # Log file
 *.log
-*.gradle
 *.project
 *.settings/
 # BlueJ files
