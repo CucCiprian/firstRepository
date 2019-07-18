@@ -5,6 +5,7 @@ public class Dummy {
 
     private String string;
 
+    // This is the shit
     public Dummy(String s){
         this.string= s;
     }

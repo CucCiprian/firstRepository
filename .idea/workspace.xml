@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5856baf-cb63-4573-a7db-24c4b8478474" name="Default Changelist" comment="Modified MyBean" />
+    <list default="true" id="d5856baf-cb63-4573-a7db-24c4b8478474" name="Default Changelist" comment="Modified MyBean">
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/gradle-spring-boot-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/out/production/classes/META-INF/gradle-spring-boot-project.main.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/out/production/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/out/production/resources/templates/greeting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/src/main/java/gradle/spring/boot/project/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/src/main/java/gradle/spring/boot/project/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/src/main/java/gradle/spring/boot/project/Dummy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/src/main/java/gradle/spring/boot/project/GreetinController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/src/main/java/gradle/spring/boot/project/HelloGradleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/src/main/java/gradle/spring/boot/project/SomeObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/src/main/java/service/AnotherTransferServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/src/main/java/service/ThirdTransferServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/src/main/java/service/TransferService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/src/main/java/service/TransferServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/src/main/resources/templates/greeting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle-spring-boot-project/src/test/java/gradle/spring/boot/project/AppTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jcombat/test/MyBean.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -58,6 +83,7 @@
     <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -70,6 +96,51 @@
               <item name="firstRepository" type="b2602c69:ProjectViewProjectNode" />
               <item name="firstRepository" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="firstRepository" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstRepository" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="firstRepository" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstRepository" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="firstRepository" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstRepository" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="firstRepository" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstRepository" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="firstRepository" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstRepository" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jcombat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="firstRepository" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstRepository" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jcombat" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -80,8 +151,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563445718595" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563445814575" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gradle-spring-boot-project" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
@@ -108,7 +179,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563444083453</updated>
-      <workItem from="1563444087721" duration="1602000" />
+      <workItem from="1563444087721" duration="1978000" />
     </task>
     <task id="LOCAL-00001" summary="Modified MyBean">
       <created>1563445210420</created>
@@ -121,7 +192,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1602000" />
+    <option name="totallyTimeSpent" value="1978000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -228,7 +299,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jcombat/test/MyBean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
